@@ -1,3 +1,11 @@
-dataset
+dataset/buffer - hw/*.json
+dataset/buffer-huannai/*.json
+dataset/buffer-general/*.json
+general_data.py
+merge.py
 __pycache__
 model
+bigger_test.json
+bigger_train.json
+
+.gitignore
